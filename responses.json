@@ -1,0 +1,23 @@
+{
+    "greetings": [
+        { "question": "hello", "response": "Hello! How can I assist you today?" },
+        { "question": "hi", "response": "Hi there! What can I do for you?" },
+        { "question": "How are you?", "response": "I am well, What about you!" },
+        { "question": "Nice to meet you!", "response": "I happy that you have nice time with me!" }
+    ],
+    "jobs": [
+        { "question": "job", "response": "Sure! What field are you interested in?" },
+        { "question": "placement", "response": "Placement assistance is available for various fields." },
+        { "question": "pavii", "response": "anshu"}
+    ],
+    "help": [
+        { "question": "can you help me?", "response": "Sure! What type of help you need?" }
+    ],
+    "gratitude": [
+        { "question": "thank you", "response": "You're welcome! If you have more questions, feel free to ask." }
+    ],
+    "default": [
+        { "response": "I'm sorry, I didn't understand that. Can you please rephrase?" }
+    ]
+    
+}
